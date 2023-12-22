@@ -1,1 +1,2 @@
-# Wie-code-2k24
+# Wie-Code-2023-24
+Official Website of Wie Code 2023-24

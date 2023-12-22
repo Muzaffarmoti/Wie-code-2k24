@@ -1,0 +1,126 @@
+.rules-container{
+    background-color: #030E2C;
+    top:0;
+}
+.rules-mini-container{
+    margin: 50px;
+    background-color: RGB(6, 24, 74, 0.2);
+    border-radius: 0.8rem;
+    box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+}
+
+.rules-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8rem;
+    
+}
+.rules-heading h1{
+    font-size: 7rem;
+    color: #92E6FF;
+    letter-spacing: 0.8rem;
+    font-weight: 400;
+    box-sizing: border-box;
+    position: relative;
+}
+.rules-heading h1::after{
+    content: "";
+    width: 50%; 
+    height: 1px; 
+    background-color: #92E6FF;
+    position: absolute;
+    bottom: -4px;
+    left: 24%; 
+    transition: width 0.5s ease-in-out, left 0.5s ease-in-out;
+    transform-origin: center; 
+}
+
+.rules-heading h1:hover::after {
+    width: 100%; 
+    left: 0; 
+}
+.rules-content{
+    padding: 0% 10% 2% 10%;
+    /* padding: 0rem 10rem ; */
+}
+.rules-ul{
+    font-size: 17px;
+    gap:2rem;
+}
+.rules-ul li{
+    padding:0.8rem ;
+    color:white;
+    list-style-image: url('../../assets/images/target.png');
+    text-align: justify;
+}
+
+@media only screen and (max-width: 900px) {
+    .rules-heading{
+        padding:3rem 6rem 0rem 6rem;
+        
+    }
+    .rules-heading h1{
+        font-weight: 300;
+        font-size: 4rem;
+        padding: 0px;
+    }
+    .rules-content{
+        padding: 5px;
+        padding-right: 2rem;
+
+    }
+    .rules-ul{
+        font-size: 15px;
+    }
+    .rules-mini-container{
+        margin: 20px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .rules-heading{
+        padding:3rem 6rem 2rem 6rem;
+        
+    }
+    .rules-heading h1{
+        font-weight: 400;
+        font-size: 5rem;
+        padding: 0px;
+    }
+    .rules-heading h1::after{
+        width: 20%;
+        left:40%
+    }
+    .rules-content{
+        /* padding: 8px 8px 8px 16px; */
+        padding-right: 2rem;
+    }
+    .rules-ul{
+        font-size: 13px;
+    }
+    .rules-mini-container{
+        margin: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 400px) {
+    .rules-heading{
+        padding:3rem 6rem 0rem 6rem;
+        
+    }
+    .rules-heading h1{
+        font-weight: 400;
+        font-size: 3rem;
+        padding: 0px;
+    }
+    /* .rules-ul{
+        width: 10px;
+        height: 10px;
+    } */
+    .rules-mini-container{
+        margin: 20px;
+    }
+}
+

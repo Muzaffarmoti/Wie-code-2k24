@@ -12,11 +12,16 @@ The WIE Code 2k24 portal is a web application developed to facilitate the seamle
 - User-Friendly Interface: Designed with an intuitive and responsive UI to enhance the user experience.
 - Secure Back-End: Ensures that all data is securely handled and stored.
 
-![Screenshot 2024-08-21 125213](https://github.com/user-attachments/assets/278a209c-3199-42f6-831e-8835488b4ea9)
-![Screenshot 2024-08-21 125226](https://github.com/user-attachments/assets/9d304b84-8b65-47e3-9b02-f5bdeb4fb2d5)
-![Screenshot 2024-08-21 125229](https://github.com/user-attachments/assets/a68bb851-f4e0-4ce4-a881-94d71eccd136)
-![Screenshot 2024-08-21 125235](https://github.com/user-attachments/assets/88fca326-fa5d-463b-b0df-3d752a7cc81d)
-![Screenshot 2024-08-21 125243](https://github.com/user-attachments/assets/811a3318-e0d6-45af-9b71-9fb9440cb5e1)
-![Screenshot 2024-08-21 125322](https://github.com/user-attachments/assets/fee634fa-b807-4fa8-ab1e-5707b173e79a)
-![Screenshot 2024-08-21 125252](https://github.com/user-attachments/assets/5082cc67-a9ab-4331-b764-352b8a6e2842)
-![Screenshot 2024-08-21 125258](https://github.com/user-attachments/assets/03a2175a-c120-4456-bb3b-c185dd6bd40d)
+![Screenshot 2024-10-01 220916](https://github.com/user-attachments/assets/b0258e49-68e6-4633-a62c-a11f392ea578)
+
+![Screenshot 2024-08-21 125226](https://github.com/user-attachments/assets/14b9cd45-a11d-4746-a64b-19db2a332504)
+![Screenshot 2024-08-21 125229](https://github.com/user-attachments/assets/e965ec5b-ed4d-4f2b-92ee-f027de3266ea)
+![Screenshot 2024-08-21 125235](https://github.com/user-attachments/assets/5b9f8e79-f9bb-4190-a058-7d1192e7d1cf)
+![Screenshot 2024-08-21 125243](https://github.com/user-attachments/assets/f0621e64-6044-4883-afcd-0178556fc31e)
+![Screenshot 2024-08-21 125322](https://github.com/user-attachments/assets/de8a619a-5acf-4d9c-82bf-200ed37f4741)
+
+![Screenshot 2024-08-21 125252](https://github.com/user-attachments/assets/911a1dfd-b210-411b-bcef-28f57ae83c09)
+![Screenshot 2024-08-21 125258](https://github.com/user-attachments/assets/35c1e29f-88c6-40e4-9aea-a8521feefeaa)
+
+
+

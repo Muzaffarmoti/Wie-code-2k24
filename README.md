@@ -11,9 +11,7 @@ The WIE Code 2k24 portal is a web application developed to facilitate the seamle
 - Hackathon Information: Provides detailed information about the hackathon, including the theme, domains, guidelines, and schedule.
 - User-Friendly Interface: Designed with an intuitive and responsive UI to enhance the user experience.
 - Secure Back-End: Ensures that all data is securely handled and stored.
-
-![Screenshot 2024-10-01 220916](https://github.com/user-attachments/assets/b0258e49-68e6-4633-a62c-a11f392ea578)
-
+![Screenshot 2024-10-01 221343](https://github.com/user-attachments/assets/d008b533-48ad-4d2b-ad0e-9f38e6d0ceec)
 ![Screenshot 2024-08-21 125226](https://github.com/user-attachments/assets/14b9cd45-a11d-4746-a64b-19db2a332504)
 ![Screenshot 2024-08-21 125229](https://github.com/user-attachments/assets/e965ec5b-ed4d-4f2b-92ee-f027de3266ea)
 ![Screenshot 2024-08-21 125235](https://github.com/user-attachments/assets/5b9f8e79-f9bb-4190-a058-7d1192e7d1cf)
